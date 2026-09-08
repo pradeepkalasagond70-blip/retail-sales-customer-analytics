@@ -21,7 +21,7 @@ The project combines **Python, SQL, and Power BI** to transform raw retail trans
 - **Python** — Pandas, NumPy, Matplotlib, Seaborn
 - **SQL** — Aggregations, CTEs, Window Functions, Ranking
 - **Power BI** — Interactive dashboard and business reporting
-- **Jupyter Notebook / Google Colab** — Data analysis
+- **Google Colab** — Data analysis
 
 ## Analysis Performed
 
