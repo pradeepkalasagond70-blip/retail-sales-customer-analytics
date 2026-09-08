@@ -71,7 +71,7 @@ The dashboard provides an executive-level view of:
 
 ### Dashboard Preview
 
-![Online Retail Sales & Returns Dashboard](dashboard.jpeg)
+![Online Retail Sales & Returns Dashboard](ONLINE%20REATL%20SALES%20%26%20RETURNS%20ANALYTICS%20DASHBOARD.jpeg)
 
 ## Key Business Insights
 
