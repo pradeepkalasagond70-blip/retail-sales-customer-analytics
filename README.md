@@ -71,7 +71,8 @@ The dashboard provides an executive-level view of:
 
 ### Dashboard Preview
 
-![Online Retail Sales & Returns Dashboard]
+Online Retail Sales & Returns Dashboard
+
 ![Online Retail Sales & Returns Dashboard](uci%20dashboard.jpeg)
 
 ## Key Business Insights
